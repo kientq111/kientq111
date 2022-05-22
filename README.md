@@ -16,5 +16,4 @@ I'm KenKen
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kientq111&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kientq111&theme=gruvbox&hide_border=true&area=true)
 
